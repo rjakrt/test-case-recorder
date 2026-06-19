@@ -1,6 +1,11 @@
 # test-case-recorder
 Test Case Recorder (Auto Generate Text)
 
+# requirements
+
+- use venv
+- install all dependencies in requirements.txt
+
 # current feature
 - Record
 - Pause
